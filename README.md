@@ -8,3 +8,4 @@ Generator: alt+fn+insert<br>
 최근 목록 상태창: Ctrl+E<br>
 메서드 자동 구현(인터페이스): Ctrl+I <br>
 람다 변경: alt + Enter <br>
+인라인 variable: Ctrl + Alt + N <br>
