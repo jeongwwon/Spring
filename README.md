@@ -9,5 +9,6 @@ Generator: alt+fn+insert<br>
 메서드 자동 구현(인터페이스): Ctrl+I <br>
 람다 변경: alt + Enter <br>
 인라인 variable: Ctrl + Alt + N <br>
+메서드 생성: Ctrl + Alt + M <br>
 코드 찾기:Ctrl + Shift + F<br>
 테스트 클래스 자동 생성:Ctrl + Shift + T<br>
